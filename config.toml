@@ -1,0 +1,194 @@
+################################### Default Configuration ############################
+baseURL = "https://alt-rev.com"
+languageCode = "fr-FR"
+title = "Alternative Communiste Révolutionnaire"
+theme = "agen"
+
+#################################### Plugins ##########################################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+  [[params.plugins.css]]
+  URL = "plugins/venobox/venobox.css"
+  [[params.plugins.css]]
+  URL = "plugins/card-slider/css/style.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/venobox/venobox.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/shuffle/shuffle.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/counto/apear.js"
+  [[params.plugins.js]]
+  URL = "plugins/counto/counTo.js"
+  [[params.plugins.js]]
+  URL = "plugins/card-slider/js/card-slider-min.js"
+  [[params.plugins.js]]
+  URL = "plugins/google-map/gmap.js"
+
+
+###################################### Navigation ######################################
+[menu]
+
+  [[menu.main]]
+  name = "Qui sommes nous ?"
+  URL = "/presentation"
+  weight = 1
+
+  [[menu.main]]
+  name = "Nos articles"
+  URL = "/articles"
+  weight = 2
+
+#          [[menu.main]]
+#          parent = "Articles"
+#          name = "Luttes des classes"
+#          URL = "#"
+#
+#          [[menu.main]]
+#          parent = "Articles"
+#          name = "Communisme révolutionnaire"
+#          URL = "#"
+#
+#          [[menu.main]]
+#          parent = "Articles"
+#          name = "Anti-racisme"
+#          URL = "#"
+#
+#          [[menu.main]]
+#          parent = "Articles"
+#          name = "Féminisme"
+#          URL = "#"
+#
+#          [[menu.main]]
+#          parent = "Articles"
+#          name = "Ecologie"
+#          URL = "#"
+#
+#          [[menu.main]]
+#          parent = "Articles"
+#          name = "Jeunesse"
+#          URL = "#"
+#
+#          [[menu.main]]
+#          parent = "Articles"
+#          name = "International"
+#          URL = "#"
+#
+#          [[menu.main]]
+#          parent = "Articles"
+#          name = "Tribunes libres"
+#          URL = "#"
+#
+#  [[menu.main]]
+#  name = "Dossiers"
+#  URL = "/dossiers"
+#  weight = 3
+#
+#            [[menu.main]]
+#            parent = "Dossiers"
+#            name = "Nos formations"
+#            URL = "/dossiers/formations"
+#
+#            [[menu.main]]
+#            parent = "Dossiers"
+#            name = "Guides pratiques"
+#            URL = "/dossiers/formations"
+#
+#  [[menu.main]]
+#  name = "Agenda"
+#  URL = "/agenda"
+#  weight = 4
+#
+#  [[menu.main]]
+#  name = "Ailleurs sur le web"
+#  URL = "/ailleurssurleweb"
+#  weight = 5
+
+  [[menu.main]]
+  name = "Le NPA"
+  URL = "https://npa2009.org/"
+  weight = 6
+
+  [[menu.main]]
+  name = "Nous contacter"
+  URL = "/#nouscontacter"
+  weight = 7
+
+  ############################# Footer menu ################################
+  [[menu.footer]]
+  name = "Qui sommes nous ?"
+  URL = "/presentation"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Nos articles"
+  URL = "/articles"
+  weight = 3
+
+  [[menu.footer]]
+  name = "Le NPA"
+  URL = "https://npa2009.org/"
+  weight = 5
+
+########################### Default parameters ##########################
+[params]
+logo = "images/logo.png"
+home = " "
+# Meta data
+description = "This is meta description"
+author = "Arc"
+# google map
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+
+  ############################# Footer Start ###########################
+
+  # footer about
+  [params.footer.about]
+  about = "Alternative Révolutionnaire Communiste est une tendance du [NPA](https://npa2009.org/) (Nouveau Parti Anticapitaliste). [En savoir plus !](#)"
+
+  # contact form
+  [params.form]
+  formAction = "#"
+
+  # copyright
+  [params.copyright]
+  copyright = "Design par [Site Web Toulouse](https://siteweb-toulouse.com/) et [Themefisher](https://themefisher.com/). Propulsé par [Hugo](https://gohugo.io/) , [Netlify](https://netlify.com) et des outils opensources. "
+
+  ######################### Social site ##############################
+  [[params.social]]
+  icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
+  link = "#"
+
+  [[params.social]]
+  icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+  link = "#"
+
+  [[params.social]]
+  icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+  link = "#"
+
+  [[params.social]]
+  icon = "ti-instagram" # themify icon pack https://themify.me/themify-icons
+  link = "#"
+
+  ######################### Autres ##############################
+  FootnoteReturnLinkContents = "Retour"

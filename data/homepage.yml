@@ -1,0 +1,84 @@
+############################## Banner ###################################
+banner:
+  bgImage : "images/banner/page-title.jpg"
+  title : "Impulsons la transformation révolutionnaire du NPA !"
+
+########################### services ##################################
+service:
+  enable : false
+  title : "Our Services"
+  subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat."
+  # service item comes from 'service.yml'
+
+############################ features #################################
+feature:
+  enable : false
+  image : "images/feature.jpg"
+  title : "We know What Bait to Use"
+  featureItem:
+    # feature item
+    - title : "User Experience"
+      icon : "ti-vector" # themify icon pack https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo"
+
+    # feature item
+    - title : "Responsive Layout"
+      icon : "ti-layout" # themify icon pack https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo"
+
+    # feature item
+    - title : "Digital Solutions"
+      icon : "ti-headphone-alt" # themify icon pack https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo"
+
+    # feature item
+    - title : "Bootstrap 4x"
+      icon : "ti-ruler-pencil" # themify icon pack https://themify.me/themify-icons
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmo"
+
+
+############################# promo video #################################
+promo:
+  enable : false
+  bgImage : "images/backgrounds/about-bg.jpg"
+  title : "Who We Are"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  videoURL : "https://www.youtube.com/watch?v=jrkvirglgaQ"
+  button:
+    enable : true
+    label : "Lire la suite"
+    link : "about"
+
+
+############################## project ####################################
+project:
+  enable : false
+  title : "Our Feature Works"
+  # project item comes from 'project.yml'
+
+################################## call to action ###########################
+cta:
+  enable : true
+  title : "Pour un NPA révolutionnaire"
+  bgImage : "images/backgrounds/cta-bg.jpg"
+  content : "Lorem ipsum inter haec Orfitus praefecti potestate regebat urbem aeternam ultra modum delatae dignitatis sese efferens insolenter, vir quidem prudens et forensium negotiorum oppido"
+  button :
+    enable : true
+    label : "Notre plateforme"
+    link : "contact"
+
+
+############################## pricing ######################################
+pricing:
+  enable : false
+  title : "Our Smart Pricing Table"
+  # pricing table comes from 'pricing.yml'
+
+
+############################## blog ######################################
+blog:
+  enable : true
+  title : "Latest News"
+  # blog content comes from `content/blog` folder

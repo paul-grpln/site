@@ -1,0 +1,36 @@
+---
+title: "Déclaration de fin de congrès: fondation d’une nouvelle tendance du NPA"
+date: 2019-09-20T16:19:26+06:00
+draft: false
+image: articles/2019-09/images/tendance.jpg
+bgImage: articles/2019-09/images/tendance.jpg
+description: "this is meta description"
+author: la tendance ARC
+type : post
+---
+
+Un processus regroupant des membres du NPA de différentes tendances et sans tendance[^1] s’est lancé pour impulser la transformation révolutionnaire du NPA. Nous proposons à tou.te.s les camarades qui se reconnaissent dans cette déclaration de nous rejoindre !
+
+Nous avons fait le constat de l’échec du dernier congrès du NPA. La Plateforme A, pourtant majoritaire au CPN, est actuellement incapable de s’entendre pour former une direction et un projet politique alternatif et a ainsi permis à la Plateforme U de garder la direction effective du NPA. Néanmoins, le dernier congrès a acté l’absence de majorité réelle au sein du NPA.
+
+Pour sortir de la crise structurelle que le NPA traverse depuis sa création, et qui est liée à un désaccord sur le type de parti que nous voulons construire, il faudrait doter le NPA d’axes stratégiques clairs, d’un programme résolument communiste révolutionnaire, et d’une orientation commune dans la lutte des classes, en donnant par exemple une priorité à notre implantation sur nos lieux de travail et d’étude.
+
+Face à ce constat, nous souhaitons sortir de la logique du bloc contre bloc. Nous avons ainsi lancé un appel que nous réaffirmons[^2] et qui débouche aujourd’hui sur la création d’une nouvelle tendance pour la refondation communiste et révolutionnaire du NPA. Nous ne nous prétendons pas l’embryon du parti révolutionnaire et nous ne voulons pas former un groupe centré sur lui-même et incapable de militer côte-à-côte avec les autres camarades. Nous cherchons ainsi à faire vivre le NPA, en nous investissant dans nos comités, les commissions, les instances de direction, tout en y défendant notre orientation, en particulier au prochain congrès. Nous mènerons ainsi la bataille pour à la fois reconstruire, réorienter et refonder le NPA.
+
+Notre projet et notre programme, qui répondent à l’aspiration légitime à renverser ce système, peuvent trouver d’autant plus d’écho à l’heure où la « gauche » institutionnelle est en crise et où le mouvement des gilets jaunes est venu percuter de manière salutaire le mouvement ouvrier traditionnel lui aussi en crise. Des débats s'ouvrent, des militant.e.s s'interrogent, dans la France insoumise, chez les gilets jaunes, etc. et c’est tant mieux ! Mais ce n'est pas en regroupant sur le plus petit dénominateur commun des forces de la « gauche de la gauche », parmi lesquelles il y a des défenseurs du système capitaliste et qui sont de plus en plus coupées des catégories populaires, que nous pourrons rencontrer un écho parmi les travailleurs/ses.
+
+Au contraire, on voit le potentiel d’attraction des secteurs politiques les plus radicaux, comme les autonomes, au sein de la jeunesse comme au sein des gilets jaunes. L’objectif du NPA dans les mois qui viennent doit être d’incarner cette radicalité, et de mettre en discussion un projet de rupture concret avec le système capitaliste, qui s'adresse aux travailleur.se.s, et notamment aux gilets jaunes et aux couches les plus exploitées et opprimées du prolétariat. On a vu avec les gilets jaunes que la confrontation directe avec le gouvernement et l’État avait encore une actualité, et que la perspective de la révolution pouvait devenir audible à plus large échelle, même si la conscience de classe et le projet politique pour y parvenir demeurent à reconstruire.
+
+Le cœur de ce projet, c'est le pouvoir politique et économique des travailleurs/ses pour en finir avec l'exploitation capitaliste, le racisme et le sexisme, et la crise écologique générée par ce système. Nous devons exproprier les gros capitalistes pour décider quoi et comment produire. Pour cela, nous devons expliquer qu’un Etat révolutionnaire des travailleurs/ses devrait sortir de l’Union Européenne et reprendre le contrôle de sa monnaie et des échanges extérieurs, tout en oeuvrant à l’extension mondiale de la révolution. Nous devons socialiser mais aussi restructurer les moyens de production et de reproduction pour venir à bout du productivisme structurel engendré par le capitalisme, qui pollue, génère le consumérisme et détruit l'écosystème. Nous devons en finir avec l’organisation du travail capitaliste, avec ses chefs et son management destructeur. Nous devons donc défendre la planification et pour cela bâtir de nouvelles institutions, une forme supérieure de démocratie, pour remplacer les institutions de ce système pourri qui protègent le pouvoir et la propriété capitalistes.
+
+Nous défendons donc un projet communiste ayant en son coeur l’auto-organisation, qui n'a rien à voir avec les régimes staliniens qui, loin d’être l’accomplissement en acte du communisme, relevaient de la dictature d'une bureaucratie sur les travailleurs/ses. Le communisme est un projet, mais c'est aussi et surtout un mouvement : celui qui émancipe en s'attaquant au pouvoir des capitalistes sur tous les aspects de nos vies.
+
+Nous défendons ce projet dans les mouvements sociaux et à partir des revendications qui en émergent. Au sein des luttes, nous cherchons toujours à construire l'unité autour de revendications qui permettent à la mobilisation de progresser. Chaque fois que cela est possible, nous devons pousser à l’auto-organisation et à la coordination des secteurs en lutte pour que les travailleurs/ses tentent de se doter d’un projet pour rompre avec ce système. Or nous pensons que c’est la grève de masse, la grève générale, celle qui bloque l'économie qui peut permettre de faire céder les patrons et leur gouvernement. Nous menons ces batailles au sein des syndicats, mais nous ne perdons pas de vue que nos objectifs sont opposés à ceux des bureaucraties syndicales qui protègent ce système en pratiquant le « dialogue social » et les « journées d'action » saute-mouton qui conduisent à la défaite et nous font croire que nous serions impuissants.
+
+Nous devons articuler les luttes des travailleurs/ses à l’ensemble des combats des opprimé.e.s : pour les droits des femmes et personnes LGBTQI et contre toute forme de violence sexiste, pour l’accueil des migrant.e.s, la liberté de circulation des êtres humains, l’antiracisme et l’anti-impérialisme, contre les violences policières qui touchent particulièrement les jeunes des quartiers populaires, autant de questions qui ne sont pas des surplus à l’analyse en termes de « classe » mais sont des combats à la fois complémentaires et nécessaires pour envisager l’affrontement et l’émancipation de tous et toutes.
+
+C’est ainsi que nous défendons un projet de rupture avec le capitalisme, écologique et émancipateur, pour un véritable processus révolutionnaire qui rende possible une alternative communiste.
+
+[^1]: Comprenant les membres de la PfT, de la PfY, ainsi que des « indépendants » et ex-PfZ.
+
+[^2]: Ici sur le site de la [Tendance Claire](https://tendanceclaire.org/article.php?id=1405) et ici sur le site de la [Portion Congrue](https://laportioncongrue.wordpress.com/2018/06/21/appel-impulsons-la-transformation-revolutionnaire-du-npa/)
