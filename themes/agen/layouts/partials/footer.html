@@ -19,9 +19,9 @@
           <div class="bg-white p-4">
             <h3 id="nouscontacter">Contactez nous !</h3>
             <form action="{{ .Site.Params.form.formAction | safeURL }}">
-              <input type="text" id="name" name="name" class="form-control mb-4 px-0" placeholder="Pseudo">
-              <input type="text" id="name" name="name" class="form-control mb-4 px-0" placeholder="Adresse mail">
-              <textarea name="message" id="message" class="form-control mb-4 px-0" placeholder="Votre message"></textarea>
+              <input type="text" aria-label="Pseudo" id="name" name="name" class="form-control mb-4 px-0" placeholder="Pseudo">
+              <input type="text" aria-label="Adresse mail" id="name" name="name" class="form-control mb-4 px-0" placeholder="Adresse mail">
+              <textarea aria-label="Votre message" name="message" id="message" class="form-control mb-4 px-0" placeholder="Votre message"></textarea>
               <button class="btn btn-primary" type="submit">Envoyer !</button>
             </form>
           </div>
