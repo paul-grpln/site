@@ -1,5 +1,5 @@
 ---
-title: "Pour une alternative révolutionnaire communiste !"
+title: "Qui sommes nous ?"
 date: 2019-08-01T16:19:26+06:00
 draft: false
 bgImage: "images/banner/tendance.jpg"
@@ -20,13 +20,14 @@ C’est sur ces bases que nous défendons un projet de rupture avec le capitalis
 
 ### Textes de fondations
 
-* Déclaration de fin de congrès
+* Déclaration de fin de congrès :
 * Texte 1 :
 * Texte 2 :
 * Texte 3 :
 * Texte 4 :
+* Appel initial :
 
 ### Quelques outils
 
-* Les différentes tendances durant les congrès du NPA
-* Historrigramme des différentes 4ème Internationale
+* Les tendances durant les congrès du NPA
+* Les fractions de la 4ème Internationale
