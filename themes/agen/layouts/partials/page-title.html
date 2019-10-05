@@ -1,11 +1,13 @@
 <!-- page-title -->
-<section class="page-title bg-cover" data-background="{{ .Params.BgImage | absURL}}">
+<div class="bg-overlay" data-background="{{ .Params.BgImage | absURL}}">
+<section class="page-title bg-cover test">
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h1 class="display-1 text-white font-weight-bold font-primary">{{ .Title | markdownify }}</h1>
+        <h1 class="text-white font-primary">{{ .Title | markdownify }}</h1>
       </div>
     </div>
   </div>
 </section>
+</div>
 <!-- /page-title -->
