@@ -3,15 +3,20 @@ title: "Pour une alternative révolutionnaire communiste !"
 date: 2019-08-01T16:19:26+06:00
 draft: false
 bgImage: "images/banner/tendance.jpg"
-description: "this is meta description"
+description: "Présentation de la tendance ARC du NPA."
 ---
-### Impulsons la transformation révolutionnaire du NPA !
+Un processus regroupant des membres du NPA de différentes tendances et sans tendance a lancé un appel (mettre le lien vers l’appel) en juillet 2018 pour impulser la transformation révolutionnaire du NPA. Après une année de discussions et d’interventions communes nous avons fondé (mettre le lien de la déclaration de fondation de la tendance) en juin 2019 l’Arc (Alternative révolutionnaire communiste). Cette nouvelle tendance du NPA regroupe les membres de la Tendance Claire, de la PfY (mettre les liens des sites de la TC et de la Portion congrue) ainsi que d’autres camarades aux parcours divers.
 
-Ciliciam vero, quae Cydno amni exultat, Tarsus nobilitat, urbs perspicabilis hanc condidisse Perseus memoratur, Iovis filius et Danaes, vel certe ex Aethiopia profectus Sandan quidam nomine vir opulentus et nobilis et Anazarbus auctoris vocabulum referens, et Mopsuestia vatis illius domicilium Mopsi, quem a conmilitio Argonautarum cum aureo vellere direpto redirent, errore abstractum delatumque ad Africae litus mors repentina consumpsit, et ex eo cespite punico tecti manes eius heroici dolorum varietati medentur plerumque sospitales.
+Nous souhaitons réunir les camarades désirant construire le NPA et ayant pour objectif sa refondation communiste révolutionnaire afin :
 
-Quare talis improborum consensio non modo excusatione amicitiae tegenda non est sed potius supplicio omni vindicanda est, ut ne quis concessum putet amicum vel bellum patriae inferentem sequi; quod quidem, ut res ire coepit, haud scio an aliquando futurum sit. Mihi autem non minori curae est, qualis res publica post mortem meam futura, quam qualis hodie sit.
+* de revoir ses « principes fondateurs » pour enlever les flous et aller dans le sens d’un parti ouvertement révolutionnaire, reconnaissant la centralité de la classe ouvrière et de son auto-organisation, intégrant l’héritage du marxisme révolutionnaire, notamment des acquis du léninisme et du trotskysme, mais aussi du féminisme, de l’anti-racisme et de l’écologie, conçus dans une perspective révolutionnaire ;
+* d’élaborer ensemble une véritable stratégie d’implantation et d’intervention du parti dans les entreprises, les universités, les syndicats, comme sur la scène politique publique ; cette stratégie doit intégrer le front unique tout en étant identifiée clairement comme alternative à celle des réformistes et des directions syndicales ;
+* de peser autant que possible sur l’orientation quotidienne du parti par la participation constructive à ses instances et à ses activités.
 
-Nam quibusdam, quos audio sapientes habitos in Graecia, placuisse opinor mirabilia quaedam (sed nihil est quod illi non persequantur argutiis): partim fugiendas esse nimias amicitias, ne necesse sit unum sollicitum esse pro pluribus; satis superque esse sibi suarum cuique rerum, alienis nimis implicari molestum esse; commodissimum esse quam laxissimas habenas habere amicitiae, quas vel adducas, cum velis, vel remittas; caput enim esse ad beate vivendum securitatem, qua frui non possit animus, si tamquam parturiat unus pro pluribus.
+Nous ne nous prétendons pas l’embryon du parti révolutionnaire et nous ne voulons pas former un groupe centré sur lui-même et incapable de militer côte-à-côte avec les autres camarades. Loin de privilégier l’auto-construction, il s’agira de combattre le sectarisme afin de travailler avec tou·te·s les camarades et tendances avec lesquel·le·s il est possible d’avancer.
+
+C’est sur ces bases que nous défendons un projet de rupture avec le capitalisme qui soit à la fois écologique et émancipateur. Nous nous battons ainsi pour qu’un véritable processus révolutionnaire rende possible une alternative communiste !
+
 
 ### Textes de fondations
 
