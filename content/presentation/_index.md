@@ -5,7 +5,7 @@ draft: false
 bgImage: "images/banner/tendance.jpg"
 description: "Présentation de la tendance ARC du NPA."
 ---
-Un processus regroupant des membres du NPA de différentes tendances et sans tendance a lancé un appel (mettre le lien vers l’appel) en juillet 2018 pour impulser la transformation révolutionnaire du NPA. Après une année de discussions et d’interventions communes nous avons fondé (mettre le lien de la déclaration de fondation de la tendance) en juin 2019 l’Arc (Alternative révolutionnaire communiste). Cette nouvelle tendance du NPA regroupe les membres de la Tendance Claire, de la PfY (mettre les liens des sites de la TC et de la Portion congrue) ainsi que d’autres camarades aux parcours divers.
+Un processus regroupant des membres du NPA de différentes tendances et sans tendance a lancé un appel (mettre le lien vers l’appel) en juillet 2018 pour impulser la transformation révolutionnaire du NPA. Après une année de discussions et d’interventions communes [nous avons fondé en juin 2019](https://alt-rev.com/articles/2019-09/declarationfindecongres/) l’Arc (Alternative révolutionnaire communiste). Cette nouvelle tendance du NPA regroupe les membres de l'ex [Tendance Claire](https://tendanceclaire.org/) et de l'ex [Portion Congrue](https://laportioncongrue.wordpress.com/) ainsi que d’autres camarades aux parcours divers.
 
 Nous souhaitons réunir les camarades désirant construire le NPA et ayant pour objectif sa refondation communiste révolutionnaire afin :
 
@@ -17,7 +17,7 @@ Nous ne nous prétendons pas l’embryon du parti révolutionnaire et nous ne vo
 
 C’est sur ces bases que nous défendons un projet de rupture avec le capitalisme qui soit à la fois écologique et émancipateur. Nous nous battons ainsi pour qu’un véritable processus révolutionnaire rende possible une alternative communiste !
 
-
+<!--
 ### Textes de fondations
 
 * Déclaration de fin de congrès :
@@ -31,3 +31,4 @@ C’est sur ces bases que nous défendons un projet de rupture avec le capitalis
 
 * Les tendances durant les congrès du NPA
 * Les fractions de la 4ème Internationale
+-->
