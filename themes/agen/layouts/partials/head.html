@@ -32,8 +32,8 @@
   <meta property="og:description" content="{{ .Description }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:site_name" content="{{ .Site.Title }}">
-  {{ if .Params.thumbnail }}
-  <meta property="og:image" content="{{ .Params.BgImage | absURL}}">
+  {{ if .Params.bgImage }}
+  <meta property="og:image" content="{{ .Params.bgImage }}">
   {{ end }}
   {{ range .Params.tags }}
   <meta property="og:tags" content="{{ . }}">
@@ -51,8 +51,8 @@
   {{ end }}
   <meta property="twitter:description" content="{{ .Description }}">
   <meta property="twitter:title" content="{{ .Title }}">
-  {{ if .Params.thumbnail }}
-  <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail }}">
+  {{ if .Params.bgImage }}
+  <meta property="twitter:image" content="{{ .Params.bgImage }}">
   {{ end }}
   <!-- End of Twitter -->
 </head>
