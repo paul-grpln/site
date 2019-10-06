@@ -163,7 +163,7 @@ googleAnalitycsID = "Your ID"
 
   # footer about
   [params.footer.about]
-  about = "Alternative Révolutionnaire Communiste est une tendance du [NPA](https://npa2009.org/) (Nouveau Parti Anticapitaliste). [En savoir plus !](#)"
+  about = "Alternative Révolutionnaire Communiste est une tendance du [NPA](https://npa2009.org/) (Nouveau Parti Anticapitaliste). [En savoir plus !](https://alt-rev.com/presentation)"
 
   # contact form
   [params.form]
