@@ -1,10 +1,10 @@
 ---
 title: "Déclaration de fin de congrès: fondation d’une nouvelle tendance du NPA"
-date: 2019-09-20T16:19:26+06:00
+date: 2019-07-23T12:19:26+06:00
 draft: false
 image: articles/2019-09/images/tendance.jpg
 bgImage: articles/2019-09/images/tendance.jpg
-description: "this is meta description"
+description: "Un processus regroupant des membres du NPA de différentes tendances et sans tendance s’est lancé pour impulser la transformation révolutionnaire du NPA. Nous proposons à tou.te.s les camarades qui se reconnaissent dans cette déclaration de nous rejoindre !"
 author: la tendance ARC
 type : post
 ---

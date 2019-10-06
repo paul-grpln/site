@@ -1,10 +1,10 @@
 ---
 title: "Texte 3 : Union européenne"
-date: 2019-09-22T16:20:27+06:00
+date: 2019-07-23T15:19:26+06:00
 draft: false
 image: articles/2019-09/images/europe.jpg
 bgImage: articles/2019-09/images/europe.jpg
-description: "this is meta description"
+description: "Un rapide retour sur l’histoire de la construction européenne et ses origines permet de mesurer qu’avec la constitution progressive d’un marché commun assorti d’une monnaie commune, il ne s’est jamais seulement agi d’un outil économique neutre, mais toujours déjà et consubstantiellement d’une stratégie des bourgeoisies à la fois pour peser davantage dans la concurrence mondiale et pour disposer d’armes juridiques et politiques contre les travailleurs d’Europe."
 author: la tendance ARC
 type : post
 ---
