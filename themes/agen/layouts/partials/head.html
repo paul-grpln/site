@@ -34,6 +34,8 @@
   <meta property="og:site_name" content="{{ .Site.Title }}">
   {{ if .Params.bgImage }}
   <meta property="og:image" content="https://alt-rev.com/{{ .Params.bgImage }}">
+  {{ else }}
+  <meta property="og:image" content="https://alt-rev.com/images/banner/page-title.jpg">
   {{ end }}
   {{ range .Params.tags }}
   <meta property="og:tags" content="{{ . }}">
