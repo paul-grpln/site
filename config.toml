@@ -176,19 +176,23 @@ googleAnalitycsID = "Your ID"
   ######################### Social site ##############################
   [[params.social]]
   icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-  link = "#"
+  link = "https://www.facebook.com/AltRevCom/"
 
   [[params.social]]
   icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-github" # themify icon pack https://themify.me/themify-icons
-  link = "#"
+  link = "https://twitter.com/altrevcom"
 
   [[params.social]]
   icon = "ti-instagram" # themify icon pack https://themify.me/themify-icons
-  link = "#"
+  link = "https://www.instagram.com/AltRevCom/"
+
+  [[params.social]]
+  icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+  link = "https://github.com/Alternative-Revolutionnaire-Communiste"
+
+  [[params.social]]
+  icon = "ti-rss" # themify icon pack https://themify.me/themify-icons
+  link = "https://alt-rev.com/index.xml"
 
   ######################### Autres ##############################
   FootnoteReturnLinkContents = "Retour"
