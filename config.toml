@@ -1,7 +1,7 @@
 ################################### Default Configuration ############################
 baseURL = "https://alt-rev.com"
 languageCode = "fr-FR"
-title = "Alternative Communiste Révolutionnaire"
+title = "Alternative Révolutionnaire Communiste"
 theme = "agen"
 
 #################################### Plugins ##########################################
@@ -149,7 +149,7 @@ theme = "agen"
 logo = "images/logo.png"
 home = " "
 # Meta data
-description = "Alternative Communiste Révolutionnaire est une tendance du Nouveau Parti Anticapitaliste."
+description = "Alternative Révolutionnaire Communiste est une tendance du Nouveau Parti Anticapitaliste."
 author = "Arc"
 # google map
 # Google Analitycs
