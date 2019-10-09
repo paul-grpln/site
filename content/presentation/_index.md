@@ -5,7 +5,7 @@ draft: false
 bgImage: "images/banner/tendance.jpg"
 description: "Présentation de la tendance ARC du NPA."
 ---
-Un processus regroupant des membres du NPA de différentes tendances et sans tendance a lancé [un appel](https://alt-rev.com/articles/2019-09/appel/) en juillet 2018 pour impulser la transformation révolutionnaire du NPA. Après une année de discussions et d’interventions communes [nous avons fondé en juin 2019](https://alt-rev.com/articles/2019-09/declarationfindecongres/) l’Arc (Alternative révolutionnaire communiste). Cette nouvelle tendance du NPA regroupe les membres de l'ex [Tendance Claire](https://tendanceclaire.org/) et de l'ex [Portion Congrue](https://laportioncongrue.wordpress.com/) ainsi que d’autres camarades aux parcours divers.
+Des membres du NPA de différentes tendances et sans tendance ont lancé [un appel](https://alt-rev.com/articles/2019-09/appel/) en juillet 2018 pour impulser la transformation révolutionnaire du NPA. Ce processus, toujours inachevé, a impliqué des discussions et des interventions communes pendant plus d'un an, après lequel [nous avons fondé en juin 2019](https://alt-rev.com/articles/2019-09/declarationfindecongres/) l’Arc (Alternative révolutionnaire communiste). Cette nouvelle tendance du NPA regroupe les membres de l'ex [Tendance Claire](https://tendanceclaire.org/) et de l'ex [Portion Congrue](https://laportioncongrue.wordpress.com/) ainsi que d’autres camarades aux parcours divers.
 
 Nous souhaitons réunir les camarades désirant construire le NPA et ayant pour objectif sa refondation communiste révolutionnaire afin :
 

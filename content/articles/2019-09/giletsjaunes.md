@@ -1,5 +1,5 @@
 ---
-title: "Texte 4 : Gilets Jaunes"
+title: "Gilets Jaunes"
 date: 2019-07-23T16:19:26+06:00
 draft: false
 image: articles/2019-09/images/gilet-jaune.jpg

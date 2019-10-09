@@ -1,5 +1,5 @@
 ---
-title: "Texte 2 : Féminisme"
+title: "Féminisme"
 date: 2019-07-23T14:19:26+06:00
 draft: false
 image: articles/2019-09/images/feminisme.jpg
