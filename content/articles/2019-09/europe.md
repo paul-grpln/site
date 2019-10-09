@@ -1,5 +1,5 @@
 ---
-title: "Texte 3 : Union européenne"
+title: "Union européenne"
 date: 2019-07-23T15:19:26+06:00
 draft: false
 image: articles/2019-09/images/europe.jpg

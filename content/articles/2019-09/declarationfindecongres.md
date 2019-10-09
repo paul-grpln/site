@@ -1,5 +1,5 @@
 ---
-title: "Déclaration de fin de congrès: fondation d’une nouvelle tendance du NPA"
+title: "Déclaration de fin de congrès : fondation d’une nouvelle tendance du NPA"
 date: 2019-07-23T12:19:26+06:00
 draft: false
 image: articles/2019-09/images/tendance.jpg

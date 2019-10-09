@@ -18,19 +18,19 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-10 mx-auto">
-        <!--h3 class="font-tertiary mb-5">{{ .Title }}</h3>
-        <img src="{{ .Params.Image | absURL }}" alt="post-thumb" class="img-fluid w-100 mb-3"-->
-        <p class="d-inline-block">Ecrit par {{.Params.Author}}</p>
-        <time class="float-right">{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</time>
+        <div class="content">
+          {{ .Content }}
+        </div>
       </div>
     </div>
   </div>
   <div class="container">
     <div class="row">
       <div class="col-lg-10 mx-auto">
-        <div class="content">
-          {{ .Content }}
-        </div>
+        <!--h3 class="font-tertiary mb-5">{{ .Title }}</h3>
+        <img src="{{ .Params.Image | absURL }}" alt="post-thumb" class="img-fluid w-100 mb-3"-->
+        <p class="d-inline-block">Ecrit par {{.Params.Author}}</p>
+        <time class="float-right">{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</time>
       </div>
     </div>
   </div>

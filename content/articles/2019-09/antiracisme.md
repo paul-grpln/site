@@ -1,5 +1,5 @@
 ---
-title: "Texte 1 : Anti-racisme"
+title: "Anti-racisme"
 date: 2019-07-23T13:19:26+06:00
 draft: false
 image: articles/2019-09/images/anti-racisme.jpg
