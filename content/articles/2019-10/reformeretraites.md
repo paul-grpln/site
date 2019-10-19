@@ -92,11 +92,16 @@ Pour y parvenir, il faut s’opposer à toute participation aux concertations qu
 Nous devons combattre dans nos syndicats pour qu’ils n’aillent pas participer à ce jeu de dupes qui vise seulement à entraver la mobilisation et surtout à diviser le prolétariat pour battre chacune des catégories les unes après les autres et nous appauvrir massivement toutes et tous.
 
 Nous proposons au débat des travailleur.se.s de tous les secteurs les revendications unifiantes suivantes :
-    • Ni amendable, ni négociable, retrait pur et simple de la réforme des retraites Macron ![^4]
-    • Maintien des régimes spéciaux et du Code des pensions, extension des régimes spéciaux à tous les métiers pénibles et du principe du salaire continué à tout.e.s les travailleur.se.s dans la perspective d’un régime unifié aligné sur les dispositions les plus favorables !
-    • Retour à la retraite à 60 ans (et au moins à 55 ans pour les métiers pénibles) pour toutes et tous, après 37,5 annuités de cotisation, avec un taux de remplacement net de 100 %, calculé sur les 5 meilleures années pour le privé et les 6 derniers mois pour les fonctionnaires et entreprises publiques
-    • Aucune pension inférieure au SMIC, même pour les carrières incomplètes !
-    • Retour à l’indexation des pensions sur les salaires !
+
+ * Ni amendable, ni négociable, retrait pur et simple de la réforme des retraites Macron ![^4]
+
+ * Maintien des régimes spéciaux et du Code des pensions, extension des régimes spéciaux à tous les métiers pénibles et du principe du salaire continué à tout.e.s les travailleur.se.s dans la perspective d’un régime unifié aligné sur les dispositions les plus favorables !
+
+ * Retour à la retraite à 60 ans (et au moins à 55 ans pour les métiers pénibles) pour toutes et tous, après 37,5 annuités de cotisation, avec un taux de remplacement net de 100 %, calculé sur les 5 meilleures années pour le privé et les 6 derniers mois pour les fonctionnaires et entreprises publiques
+
+ * Aucune pension inférieure au SMIC, même pour les carrières incomplètes !
+
+ * Retour à l’indexation des pensions sur les salaires !
 
 ### Préparer et construire la grève illimitée à partir du 5 décembre
 
@@ -111,3 +116,5 @@ C’est une telle grève illimitée qui, seule, peut permettre de repousser la r
 [^3]: Le défaut de ces calculs est qu’ils se bornent à présenter les effets de la réforme à terme et qu’ils ne permettent donc pas à chacun de se représenter concrètement ce que la réforme impliquerait (à peu près) sur le montant initial de sa pension (avec toutes les précautions que cela implique, car la valeur de service du point est variable). Une telle présentation prête le flanc à une contre-campagne de communication gouvernementale dénonçant les exagérations ou les mensonges des syndicats. Elle doit donc être combinée à une présentation prenant en compte la progressivité de l’application de la réforme envisagée.
 
 [^4]: On notera que ce n’est pas, à ce stade, la ligne de l’intersyndicale CGT, FO, FSU, Solidaires, Unef, UNL, FIDL, MNL, comme le montre la lecture du communiqué du 15/10/2019 appelant à une journée de grève le 5 décembre, quand bien d’autres structures syndicales appellent à une grève illimitée ou reconductible à partir du 5 décembre. Il faut intervenir dans nos syndicats, à tous les niveaux, pour que cela devienne la première revendication de l’intersyndicale, laquelle ne revendique pas non plus le maintien des régimes spéciaux (et donc pas non plus leur extension à tous les métiers pénibles), ni le maintien du Code des pensions….
+
+*Nous vous invitons également à essayer [le simulateur de Sud Education](https://retraites.sudeducation.org/) !*
