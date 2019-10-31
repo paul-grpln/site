@@ -5,7 +5,7 @@ backend:
   branch: master
 publish_mode: editorial_workflow
 media_folder: "static/images/couvertures/"
-public_folder: "images/couvertures/"
+public_folder: "/images/couvertures/"
 collections:
   - name: "Articles"
     label: "Articles"
@@ -13,7 +13,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{slug}}"
     fields:
-      - {label: "Titre", name: "Title", widget: "string"}
+      - {label: "Titre", name: "title", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "datetime"}
       - {label: "Brouillon", name: "draft", widget: "boolean", default: false}
       - {label: "Couverture", name: "image", widget: "image"}
