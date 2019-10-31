@@ -28,11 +28,12 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{slug}}"
     fields:
-      - {label: "Titre", name: "Title", widget: "string"}
+      - {label: "Titre", name: "title", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "datetime"}
       - {label: "Brouillon", name: "draft", widget: "boolean", default: false}
       - {label: "Couverture", name: "image", widget: "image"}
       - {label: "Miniature", name: "bgImage", widget: "image"}
       - {label: "description", name: "description", widget: "string"}
-      - {label: "Auteur·e·s", name: "author", widget: "string"}
-      - {label: "type", name: "type", widget: "hidden", default: "post"}
+      - {label: "Nom de la source", name: "source", widget: "string"}
+      - {label: "Adresse de l'article", name: "sourceURL", widget: "string"}
+      - {label: "type", name: "type", sourceURL: "hidden", default: "ailleurssurleweb"}
