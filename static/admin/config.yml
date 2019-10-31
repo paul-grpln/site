@@ -5,7 +5,7 @@ backend:
   branch: master
 publish_mode: editorial_workflow
 media_folder: "static/images/couvertures/"
-public_folder: "/images/couvertures/"
+public_folder: "images/couvertures/"
 collections:
   - name: "Articles"
     label: "Articles"
@@ -24,7 +24,7 @@ collections:
       - {label: "Article", name: "Body", widget: "markdown"}
   - name: "AilleursSurLeWeb"
     label: "AilleursSurLeWeb"
-    folder: "content/ailleurssurleweb/{{year}}-{{month}}/"
+    folder: "content/ailleurssurleweb/"
     create: true
     slug: "{{year}}-{{month}}-{{slug}}"
     fields:
