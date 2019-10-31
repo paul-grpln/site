@@ -21,7 +21,7 @@ collections:
       - {label: "description", name: "description", widget: "string"}
       - {label: "Auteur·e·s", name: "author", widget: "string"}
       - {label: "type", name: "type", widget: "hidden", default: "post"}
-      - {label: "Article", name: "body", widget: "markdown"}
+      - {label: "Contenu de l'article", name: "body", widget: "markdown"}
   - name: "AilleursSurLeWeb"
     label: "AilleursSurLeWeb"
     folder: "content/ailleurssurleweb/"
@@ -37,4 +37,4 @@ collections:
       - {label: "Nom de la source", name: "source", widget: "string"}
       - {label: "Adresse de l'article", name: "sourceURL", widget: "string"}
       - {label: "type", name: "type", widget: "hidden", default: "ailleurssurleweb"}
-      - {label: "Article", name: "body", widget: "markdown"}
+      - {label: "Contenu de l'article", name: "body", widget: "markdown"}
