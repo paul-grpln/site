@@ -2,7 +2,7 @@
 title: "Qui sommes nous ?"
 date: 2019-08-01T16:19:26+06:00
 draft: false
-bgImage: "images/banner/tendance.jpg"
+bgImage: "images/couvertures/tendance.jpg"
 description: "Présentation de la tendance ARC du NPA."
 ---
 Des membres du NPA de différentes tendances et sans tendance ont lancé [un appel](https://alt-rev.com/articles/2019-09/appel/) en juillet 2018 pour impulser la transformation révolutionnaire du NPA. Ce processus, toujours inachevé, a impliqué des discussions et des interventions communes pendant plus d'un an, après lequel [nous avons fondé en juin 2019](https://alt-rev.com/articles/2019-09/declarationfindecongres/) l’Arc (Alternative révolutionnaire communiste). Cette nouvelle tendance du NPA regroupe les membres de l'ex [Tendance Claire](https://tendanceclaire.org/) et de l'ex [Portion Congrue](https://laportioncongrue.wordpress.com/) ainsi que d’autres camarades aux parcours divers.

@@ -1,7 +1,7 @@
 <head>
   <meta charset="utf-8">
   <title>{{ .Site.Title }}</title>
-
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -35,7 +35,7 @@
   {{ if .Params.bgImage }}
   <meta property="og:image" content="https://alt-rev.com/{{ .Params.bgImage }}">
   {{ else }}
-  <meta property="og:image" content="https://alt-rev.com/images/banner/page-title.jpg">
+  <meta property="og:image" content="https://alt-rev.com/images/couvertures/page-title.jpg">
   {{ end }}
   {{ range .Params.tags }}
   <meta property="og:tags" content="{{ . }}">

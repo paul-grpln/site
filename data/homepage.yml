@@ -1,6 +1,6 @@
-############################## Banner ###################################
-banner:
-  bgImage : "images/banner/page-title.jpg"
+############################## couvertures ###################################
+couvertures:
+  bgImage : "images/couvertures/page-title.jpg"
   title : "Un petit geste pour la planète : Renversons le capitalisme !"
 
 ########################### services ##################################
