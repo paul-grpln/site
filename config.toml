@@ -113,10 +113,10 @@ theme = "agen"
 #  URL = "/agenda"
 #  weight = 4
 #
-#  [[menu.main]]
-#  name = "Ailleurs sur le web"
-#  URL = "/ailleurssurleweb"
-#  weight = 5
+[[menu.main]]
+  name = "Ailleurs sur le web"
+  URL = "/ailleurssurleweb"
+  weight = 5
 
   [[menu.main]]
   name = "Le NPA"

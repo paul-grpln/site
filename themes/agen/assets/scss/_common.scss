@@ -438,3 +438,26 @@ ol{
     background: $light;
   }
 }
+
+.sidebar-box {
+  position: relative;
+  overflow: hidden;
+}
+.sidebar-box .mask {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  margin: 0; padding: 150px 0;
+
+  /* "transparent" only works here because == rgba(0,0,0,0) */
+  background-image: linear-gradient(to bottom, transparent, white);
+}
+
+#AilleursSurLeWeb {
+  color: #fff;
+  padding: 10px;
+  border-radius: 3px;
+  background: linear-gradient(37deg,#b43e79 1%,#f7463a 100%);
+}

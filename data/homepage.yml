@@ -61,13 +61,13 @@ project:
 ################################## call to action ###########################
 cta:
   enable : true
-  title : "Pour un NPA révolutionnaire"
+  title : "Ailleurs sur le web"
   bgImage : "images/backgrounds/cta-bg.jpg"
-  content : "Lorem ipsum inter haec Orfitus praefecti potestate regebat urbem aeternam ultra modum delatae dignitatis sese efferens insolenter, vir quidem prudens et forensium negotiorum oppido"
+  content : "Régulièrement, nous partageons des articles issus d'autres organisations, de médias traditionels ou associatifs. Si ceux-ci ne réprésentent pas la position de la tendance, nous les publions à titre informatif ou pour nourrir les débats d'actualité."
   button :
     enable : true
-    label : "Notre plateforme"
-    link : "contact"
+    label : "Voir notre revue de presse"
+    link : "ailleurssurleweb"
 
 
 ############################## pricing ######################################

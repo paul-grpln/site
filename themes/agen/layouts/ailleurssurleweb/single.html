@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+<!-- page-title -->
+<div class="bg-overlay" data-background="{{ .Params.BgImage | absURL}}">
+<section class="page-title bg-cover test">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h1 class="text-white font-primary">{{ .Title | markdownify }}</h1>
+      </div>
+    </div>
+  </div>
+</section>
+</div>
+<!-- /page-title -->
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <p id="AilleursSurLeWeb"><b>AVANT-PROPOS :</b> Les articles de la rubrique "Ailleurs sur le web" ne représentent pas les positions de notre tendance, mais sont publiés à titre d'information ou pour nourrir les débats d'actualités.</p>
+        <div class="sidebar-box">
+        <div class="content">
+          {{ .Content }}
+        </div>
+        <p class="mask"> </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+        <a href="{{.Params.SourceURL}}" class="btn btn-lg btn-primary center">Lire en intégralité sur {{.Params.Source}}.</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
