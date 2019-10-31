@@ -13,27 +13,27 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Title", name: "Titre", widget: "string"}
-      - {label: "date", name: "Date de publication", widget: "datetime"}
-      - {label: "draft", name: "Brouillon", widget: "boolean", default: false}
-      - {label: "image", name: "Couverture", widget: "image"}
-      - {label: "bgImage", name: "Miniature", widget: "image"}
+      - {label: "Titre", name: "Title", widget: "string"}
+      - {label: "Date de publication", name: "date", widget: "datetime"}
+      - {label: "Brouillon", name: "draft", widget: "boolean", default: false}
+      - {label: "Couverture", name: "image", widget: "image"}
+      - {label: "Miniature", name: "bgImage", widget: "image"}
       - {label: "description", name: "description", widget: "string"}
-      - {label: "author", name: "Auteur·e·s", widget: "string"}
+      - {label: "Auteur·e·s", name: "author", widget: "string"}
       - {label: "type", name: "type", widget: "hidden", default: "post"}
-      - {label: "Body", name: "Article", widget: "markdown"}
+      - {label: "Article", name: "Body", widget: "markdown"}
   - name: "AilleursSurLeWeb"
     label: "AilleursSurLeWeb"
     folder: "content/ailleurssurleweb/{{year}}-{{month}}/"
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Title", name: "Titre", widget: "string"}
-      - {label: "date", name: "Date de publication", widget: "datetime"}
-      - {label: "draft", name: "Brouillon", widget: "boolean", default: false}
-      - {label: "image", name: "Couverture", widget: "image"}
-      - {label: "bgImage", name: "Miniature", widget: "image"}
+      - {label: "Titre", name: "Title", widget: "string"}
+      - {label: "Date de publication", name: "date", widget: "datetime"}
+      - {label: "Brouillon", name: "draft", widget: "boolean", default: false}
+      - {label: "Couverture", name: "image", widget: "image"}
+      - {label: "Miniature", name: "bgImage", widget: "image"}
       - {label: "description", name: "description", widget: "string"}
-      - {label: "author", name: "Auteur·e·s", widget: "string"}
-      - {label: "type", name: "type", widget: "hidden", default: "revue"}
-      - {label: "Body", name: "Article", widget: "markdown"}
+      - {label: "Auteur·e·s", name: "author", widget: "string"}
+      - {label: "type", name: "type", widget: "hidden", default: "post"}
+      - {label: "Article", name: "Body", widget: "markdown"}
