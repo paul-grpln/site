@@ -1,7 +1,7 @@
 {{ define "main" }}
 
-<!-- banner -->
-{{ with .Site.Data.homepage.banner }}
+<!-- couvertures -->
+{{ with .Site.Data.homepage.couvertures }}
 <section class="page-title bg-cover position-relative d-flex justify-content-center align-items-center"
   data-background="{{ .bgImage | absURL }}">
   <div class="container">
@@ -13,7 +13,7 @@
   </div>
 </section>
 {{ end }}
-<!-- /banner -->
+<!-- /couvertures -->
 
 {{ if .Site.Data.homepage.service.enable }}
 <!-- service -->

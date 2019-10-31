@@ -1,0 +1,37 @@
+backend:
+  name: git-gateway
+  branch: master
+publish_mode: editorial_workflow
+media_folder: "static/images/couvertures/{{year}}-{{month}}/"
+public_folder: "/images/couvertures/{{year}}-{{month}}/"
+collections:
+  - name: "Articles"
+    label: "Articles"
+    folder: "content/articles/{{year}}-{{month}}/"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "Titre", widget: "string"}
+      - {label: "date", name: "Date de publication", widget: "datetime"}
+      - {label: "draft", name: "Brouillon", widget: "boolean", default: false}
+      - {label: "image", name: "Couverture", widget: "image"}
+      - {label: "bgImage", name: "Miniature", widget: "image"}
+      - {label: "description", name: "description", widget: "string"}
+      - {label: "author", name: "Auteur·e·s", widget: "string"}
+      - {label: "type", name: "type", widget: "hidden", default: "post"}
+      - {label: "Body", name: "Article", widget: "markdown"}
+  - name: "AilleursSurLeWeb"
+    label: "AilleursSurLeWeb"
+    folder: "content/ailleurssurleweb/{{year}}-{{month}}/"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "Titre", widget: "string"}
+      - {label: "date", name: "Date de publication", widget: "datetime"}
+      - {label: "draft", name: "Brouillon", widget: "boolean", default: false}
+      - {label: "image", name: "Couverture", widget: "image"}
+      - {label: "bgImage", name: "Miniature", widget: "image"}
+      - {label: "description", name: "description", widget: "string"}
+      - {label: "author", name: "Auteur·e·s", widget: "string"}
+      - {label: "type", name: "type", widget: "hidden", default: "revue"}
+      - {label: "Body", name: "Article", widget: "markdown"}
