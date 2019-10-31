@@ -4,14 +4,14 @@ backend:
     - Editeurs
   branch: master
 publish_mode: editorial_workflow
-media_folder: "static/images/couvertures/{{year}}-{{month}}/"
-public_folder: "/images/couvertures/{{year}}-{{month}}/"
+media_folder: "static/images/couvertures/"
+public_folder: "images/couvertures/"
 collections:
   - name: "Articles"
     label: "Articles"
-    folder: "content/articles/{{year}}-{{month}}/"
+    folder: "content/articles/"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{slug}}"
     fields:
       - {label: "Titre", name: "Title", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "datetime"}
@@ -24,9 +24,9 @@ collections:
       - {label: "Article", name: "Body", widget: "markdown"}
   - name: "AilleursSurLeWeb"
     label: "AilleursSurLeWeb"
-    folder: "content/ailleurssurleweb/{{year}}-{{month}}/"
+    folder: "content/ailleurssurleweb/"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{slug}}"
     fields:
       - {label: "Titre", name: "Title", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "datetime"}
@@ -36,4 +36,3 @@ collections:
       - {label: "description", name: "description", widget: "string"}
       - {label: "Auteur·e·s", name: "author", widget: "string"}
       - {label: "type", name: "type", widget: "hidden", default: "post"}
-      - {label: "Article", name: "Body", widget: "markdown"}
