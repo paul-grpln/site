@@ -26,7 +26,7 @@ collections:
     label: "AilleursSurLeWeb"
     folder: "content/ailleurssurleweb/{{year}}-{{month}}/"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{slug}}"
     fields:
       - {label: "Titre", name: "Title", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "datetime"}
@@ -35,5 +35,4 @@ collections:
       - {label: "Miniature", name: "bgImage", widget: "image"}
       - {label: "description", name: "description", widget: "string"}
       - {label: "Auteur·e·s", name: "author", widget: "string"}
-      - {label: "type", name: "type", widget: "hidden", default: "revue"}
-      - {label: "Article", name: "Body", widget: "markdown"}
+      - {label: "type", name: "type", widget: "hidden", default: "post"}
