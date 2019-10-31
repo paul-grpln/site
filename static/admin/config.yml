@@ -36,4 +36,5 @@ collections:
       - {label: "description", name: "description", widget: "string"}
       - {label: "Nom de la source", name: "source", widget: "string"}
       - {label: "Adresse de l'article", name: "sourceURL", widget: "string"}
-      - {label: "type", name: "type", sourceURL: "hidden", default: "ailleurssurleweb"}
+      - {label: "type", name: "type", widget: "hidden", default: "ailleurssurleweb"}
+      - {label: "Article", name: "Body", widget: "markdown"}
