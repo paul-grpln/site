@@ -1,6 +1,6 @@
 ---
 title: >-
-  Compte-rendu de la réunion du 20 octobre 2019  à l’initiative d’Argumentspour
+  Compte-rendu de la réunion du 20 octobre 2019  à l’initiative d’Arguments pour
   la Lutte Sociale.
 date: 2019-10-31T22:09:08.023Z
 draft: false
