@@ -15,7 +15,7 @@ collections:
     fields:
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "datetime"}
-      - {label: "Brouillon", name: "draft", widget: "boolean", default: false}
+      - {label: "Brouillon", name: "draft", widget: "hidden", default: "false"}
       - {label: "Couverture", name: "image", widget: "image"}
       - {label: "Miniature", name: "bgImage", widget: "image"}
       - {label: "description", name: "description", widget: "string"}
@@ -30,7 +30,7 @@ collections:
     fields:
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "datetime"}
-      - {label: "Brouillon", name: "draft", widget: "boolean", default: false}
+      - {label: "Brouillon", name: "draft", widget: "hidden", default: "false"}
       - {label: "Couverture", name: "image", widget: "image"}
       - {label: "Miniature", name: "bgImage", widget: "image"}
       - {label: "description", name: "description", widget: "string"}
