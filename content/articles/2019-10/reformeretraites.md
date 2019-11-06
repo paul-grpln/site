@@ -1,5 +1,5 @@
 ---
-title: "Réforme des retraites"
+title: "Réforme des retraites (1) : vers un régime universel de la misère !"
 date: 2019-10-19T12:30:00+06:00
 draft: false
 image: articles/2019-10/images/retraites.png
