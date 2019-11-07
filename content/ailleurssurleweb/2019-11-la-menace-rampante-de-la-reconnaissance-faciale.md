@@ -19,7 +19,7 @@ type: ailleurssurleweb
 
 _\[Photo : AnitaVDB/iStock ; Thor Alvis/Unsplash]_
 
-Cet article fait partie de_ The Privacy Divide_, une publication qui explore les idées fausses, les inégalités et les paradoxes qui se sont tissés autour de notre conception de la vie privée et de la portée sociale grandissante qu’elle a sur la société.
+Cet article fait partie de _The Privacy Divide_, une publication qui explore les idées fausses, les inégalités et les paradoxes qui se sont tissés autour de notre conception de la vie privée et de la portée sociale grandissante qu’elle a sur la société.
 
 Lors d’un vote unanime lundi, un des comités du gouvernement municipal de San Francisco a conduit la ville à aller vers une complète interdiction de l’utilisation par la municipalité de la technologie de reconnaissance faciale. Ce serait la première ville américaine à prendre une telle mesure : au fur et à mesure que la police, les organismes gouvernementaux et les entreprises se tournent vers la technologie, il n’y a ni lois fédérales ni règles locales strictes qui réglementent son utilisation. Nombre d’entre nous semblent réticents vis à vis de systèmes de surveillance conçus pour nous identifier ou nous repérer automatiquement en public, mais cela ne semble guère poser de problème, et voilà ce qui est le plus inquiétant.
 
