@@ -14,10 +14,4 @@ Dans une interview récente à Libération (3 novembre 2019) où elle présente 
 
 
 
-
-
-![](/images/couvertures/ailleurs-2019-11-naomi_klein_reve_lenine.jpg)
-
-
-
 Quoi que l’on pense des perspectives tracées par Naomi Klein dans son livre, il est vrai qu’une politique révolutionnaire ne peut se contenter d’une dénonciation de la réalité quotidienne, des catastrophes auxquelles nous conduit le capitalisme, mais devrait être aussi capable de tracer un autre horizon, de faire naître le désir d’une société souhaitable à la fois pour les individus et la collectivité.
