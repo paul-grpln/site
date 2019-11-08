@@ -1,6 +1,6 @@
 ---
 title: L'opposition à la réforme des retraites grandit
-date: 2019-11-08T16:25:45.979Z
+date: 2019-11-07T16:25:45.979Z
 draft: 'false'
 image: /images/couvertures/tendance.jpg
 bgImage: /images/couvertures/tendance-min.jpg
