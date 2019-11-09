@@ -55,7 +55,7 @@ En outre, le changement ne serait pas considérable, puisque, à ce jour, la pen
 
 Quand on lit les journaux ou écoute les partisans de la réforme, on pourrait croire que le minimum de retraites serait garanti de façon universelle, c’est-à-dire à tout le monde et sans condition. Ainsi, l’article concernant le minimum retraite mis en ligne sur le site gouvernemental de « présentation » de la réforme des retraites, souligne la proratisation de l’actuel montant minimum des pensions, mais reste silencieux sur la proratisation du minimum retraite dans la réforme Macron-Delevoye <a href="#note4">\[4]</a>. 
 
-Pourtant, si on lit attentivement le rapport Delevoye, la proratisation est clairement annoncée. Ainsi, le titre de la p. 53 l’écrit en toutes lettres : « Un minimum de retraite fixé à 85% du SMIC net pour une carrière complète » (Rapport Delevoye, p. 53, nous soulignons). Ce sera donc moins de 85% du SMIC net pour une carrière incomplète. 
+Pourtant, si on lit attentivement le rapport Delevoye, la proratisation est clairement annoncée. Ainsi, le titre de la p. 53 l’écrit en toutes lettres : « Un minimum de retraite fixé à 85% du SMIC net _pour une carrière complète_ » (Rapport Delevoye, p. 53, nous soulignons). Ce sera donc moins de 85% du SMIC net pour une carrière incomplète. 
 
 #### Que serait une « carrière complète »  dans le système à points Delevoye-Macron ?
 
