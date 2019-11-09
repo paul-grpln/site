@@ -1,0 +1,32 @@
+---
+title: Ce qu’ont perdu les femmes de l’Est
+date: 2019-11-09T14:41:22.421Z
+draft: 'false'
+image: /images/couvertures/tendance.jpg
+bgImage: /images/couvertures/tendance-min.jpg
+description: Ce qu’ont perdu les femmes de l’Est
+source: Le Monde diplomatique
+sourceURL: 'https://www.monde-diplomatique.fr/2015/05/KERGEL/52925'
+type: ailleurssurleweb
+---
+**Vingt-cinq ans après, la vie quotidienne des Allemandes reste très marquée par les conceptions différentes de leur rôle qui régnaient des deux côtés du Mur.**
+
+A la faveur du processus d’unification, la plupart des sociologues avaient parié que les conditions de vie des femmes à l’Est et à l’Ouest s’harmoniseraient à court ou moyen terme. Pronostic trop optimiste ? En 2007, par exemple, seules 16 % des mères d’enfants âgés de 3 à 5 ans occupaient un emploi à temps plein dans l’ouest du pays, contre 52 % à l’Est. Et, si le taux de natalité de l’ancienne République démocratique allemande (RDA) est désormais aussi bas que celui de l’Ouest, de fortes disparités subsistent (1). Ainsi du pourcentage de naissances hors mariage : 61 % dans la partie orientale en 2009, contre 26 % dans la partie occidentale (2).
+
+La population féminine des nouveaux Länder a été particulièrement affectée par les bouleversements sociaux et politiques provoqués par l’unification. En RDA, les mères, contrairement à celles de la République fédérale d’Allemagne (RFA), conciliaient sans embarras vie familiale et vie professionnelle. L’absorption de l’Est par l’Ouest a provoqué une hausse vertigineuse de leur taux de chômage et chamboulé leurs modes de vie, leurs projets, leur confiance en elles.
+
+Dans toute l’Allemagne, comme ailleurs en Europe, le taux d’activité des femmes s’est considérablement accru depuis les années 1950, mais en RDA cette évolution a été sans commune mesure avec celle de l’Ouest. A la fin des années 1980, 92 % des Allemandes de l’Est occupaient un emploi, contre 60 % de leurs voisines occidentales. Sur ce point, l’égalité était en vue — un cas presque unique au monde. Alors qu’à l’Ouest les femmes orientaient leurs projets de vie selon des schémas encore très imprégnés par l’imagerie familiale et patriarcale traditionnelle, à l’Est, leur indépendance économique vis-à-vis du conjoint allait pour ainsi dire de soi.
+
+La chute spectaculaire de la natalité observée en RDA au cours des années 1970 a conduit le régime à prendre diverses mesures pour inciter les femmes actives à enfanter, avec un effort particulier en faveur des mères isolées ou divorcées. Parfois moquée pour sa justification idéologique (alimenter en effectifs la construction d’une « société socialiste »), cette politique a cependant permis d’harmoniser projets professionnels et contraintes parentales. De l’autre côté du Mur, en revanche, la condition de mère entraînait souvent des privations, voire un basculement dans la pauvreté, surtout en cas de divorce ou d’abandon par le conjoint.
+
+Rien d’étonnant donc à ce que les femmes de l’ex-RDA aient souvent perçu la réunification comme une menace pour leurs conditions de vie. A travers l’expérience inédite du chômage, c’est un système de valeurs apparaissant jusque-là comme évident qui s’est effondré. « A l’agence pour l’emploi, quand tu leur dis “seule avec deux enfants”, ils ne savent pas de quoi tu parles. L’agente assise en face de moi ne m’a même pas jeté un regard, rien, raconte Ilona, mère isolée et ancienne vendeuse à Berlin-Est. Elle remplit sa fiche, vite, et puis dehors, au suivant. » En RDA, les femmes vivaient sous la protection d’un Etat omnipotent qui maintenait le père et la famille dans une fonction sociale subalterne. Opérée sous l’égide des institutions, la socialisation des enfants eux-mêmes était largement déconnectée de la cellule familiale. Or l’attachement féminin à l’autonomie n’a pas disparu avec le Mur.
+
+Une enquête menée auprès de Berlinoises sans emploi au début des années 2000 révélait des rapports très différents au travail et aux enfants. Toutes considéraient ces derniers comme un élément central de leur existence, mais celles qui venaient de l’Ouest leur accordaient plus d’importance qu’à leur travail. Bien que conscientes des tracas qui les guettaient, elles avaient tendance à voir leur chômage comme une occasion de jouer pleinement leur rôle auprès d’eux. En revanche, les Berlinoises de l’Est voulaient mener de front leur éducation et la réalisation de leurs projets professionnels, estimant qu’ils grandiraient dans de meilleures conditions si elles retrouvaient un emploi. « Mieux dans leur peau »en tant que travailleuses, elles seraient mieux à même de jouer leur rôle de mères. Elles considéraient leur indépendance comme un bienfait pour elles et pour leur famille.
+
+### Une protection sociale fiable, condition essentielle de l’égalité des droits
+
+Les mères de Berlin-Ouest estimaient en général que personne n’était mieux placé qu’elles pour prendre soin de leurs enfants. Tout en reconnaissant l’utilité des crèches et des haltes-garderies, elles tendaient à s’accommoder de leurs horaires très stricts. Pour les mères de Berlin-Est, en revanche, habituées aux horaires plus souples de la RDA, l’accès aux crèches représentait un enjeu crucial, d’autant plus que les employeurs en tenaient compte dans leur politique d’embauche. En 2000, Anna, vendeuse au chômage de 28 ans, ne cachait pas sa colère devant les refus en rafale qu’elle essuie au seul motif de sa condition de mère isolée. « On te répète tout le temps : “Quoi, vous avez deux gosses ? Ah, mais ça ne va pas être possible.” Quand je leur explique que j’ai trouvé un arrangement pour les faire garder, ils font la sourde oreille. » S’y ajoute l’éternel soupçon qu’elle pourrait enfanter à nouveau : « Il y a pourtant peu de chances que je retombe enceinte. C’est ce que j’ai dit à un type récemment : je ne vais pas refaire un enfant alors que j’en ai déjà deux, ne vous inquiétez pas. » Du temps de la RDA, pareille proclamation au bureau d’embauche eût été inconcevable.
+
+### Les mères de Berlin-Ouest voient le chômage comme une chance
+
+Toutes les mères de l’Est en recherche d’emploi ont ainsi dû montrer patte blanche, convaincre qu’elles maîtrisaient les nouvelles règles du jeu, tout en supportant l’humiliation de se voir infliger un tel traitement. Pour les Berlinoises de l’Ouest, en revanche, ce sont surtout les exigences croissantes du marché du travail qui posent problème. Paula, mère isolée de 36 ans et secrétaire au chômage, avait postulé pour un emploi à deux pas de chez elle.
