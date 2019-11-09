@@ -37,7 +37,7 @@ Dans le système par points, toutes les périodes compteront… pour le meilleur
 
 ### Des points de solidarité financés… par l’impôt et donc toujours soumis aux menaces de coupes budgétaires !
 
-Mais ce n’est pas tout. Les points de solidarité ne seront pas financés par les cotisations sociales, donc par le patronat, mais par l’impôt[^2]. Nouveau cadeau au patronat ! En outre, cela impliquera que le montant des points de solidarité pouvant être obtenus ne sera pas garanti : il sera au contraire soumis aux aléas de coupes budgétaires. Et chacun a constaté que, lorsque les gouvernements au service du MEDEF coupent dans les dépenses, il ne supprime pas des cadeaux au patronat ou aux riches, mais ils coupent dans les APL, les aides sociales, ou ils augmentent les impôts les plus injustes comme la TVA. 
+Mais ce n’est pas tout. Les points de solidarité ne seront pas financés par les cotisations sociales, donc par le patronat, mais par l’impôt[^2]. Nouveau cadeau au patronat ! En outre, cela impliquera que le montant des points de solidarité pouvant être obtenus ne sera pas garanti : il sera au contraire soumis aux aléas de coupes budgétaires. Et chacun a constaté que, lorsque les gouvernements au service du MEDEF coupent dans les dépenses, ils ne suppriment pas des cadeaux au patronat ou aux riches, mais ils coupent dans les APL, les aides sociales, ou ils augmentent les impôts les plus injustes comme la TVA. 
 
 ### Porter le minimum retraite à 85% du SMIC net : grande avancée ou grand enfumage ?
 
