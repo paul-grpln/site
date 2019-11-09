@@ -81,6 +81,7 @@ Cependant, il ne faut surtout pas le faire sous l’angle consistant à exiger u
 
 - - -
 
+
 1. <p id="note1">« Les périodes de chômage <i>indemnisées</i> donneront lieu à l’acquisition de points sur la base de l’allocation versée au titre de ces périodes » (Rapport Delevoye, p. 20, nous soulignons).</p>
 2. <p id="note2">« Au titre de la solidarité nationale, l’acquisition de ces droits sera financée <i>par l’impôt</i> au travers d’un Fonds de solidarité vieillesse universel » (Rapport Delevoye, p. 20, nous soulignons).</p>
 3. <p id="note3">« À enveloppe constante, cette solidarité sera pourtant davantage tournée vers les plus désavantagés par le système actuel, notamment via la garantie d’un minimum de retraite fixé à 85% du SMIC net à la liquidation pour les assurés ayant réalisé une carrière avec des revenus modestes, cette garantie étant indexée sur le SMIC au fil des générations » (Rapport Delevoye, p. 116). Ou encore : « Les simulations réalisées confirment les attendus du système universel : les futurs retraités ayant les revenus les plus modestes bénéficieront d’une hausse importante de leur retraite, notamment parmi les premiers déciles. Le système universel diminuera l’écart entre les niveaux de retraite. Il améliorera fortement la retraite de 40% des assurés ayant des retraites les plus faibles. » (p. 119). Nous reviendrons sur les « simulations » qui pour le coup portent assez bien leur nom s’il s’agit bien en simulant de tromper les travailleur.se.s sur les véritables effets qu’aurait cette réforme ! </p>
