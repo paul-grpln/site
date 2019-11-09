@@ -31,7 +31,7 @@ Cette réforme de l’assurance-chômage montre que le gouvernement ne se soucie
 
 ### Le calcul de la retraite sur toute la carrière pénaliserait les salarié.e.s ayant subi des périodes de chômage fréquentes ou/et longues
 
-Aujourd’hui, dans le privé, le salaire de référence pour le calcul de la retraite est celui des 25 meilleures années (sur 43 années). Cela permet normalement de sortir du calcul toutes les périodes de chômage où les revenus étaient faibles. 
+Aujourd’hui, dans le privé, le salaire de référence pour le calcul de la retraite est celui des 25 meilleures années (sur 43 années). Cela permet normalement de sortir du calcul toutes les périodes où les revenus étaient faibles – souvent les périodes de chômage. 
 
 Dans le système par points, toutes les périodes compteront… pour le meilleur et pour le pire ! Les périodes de chômage non indemnisées ne donneront droit à aucun point. Delevoye ne le crie pas sur tous les toits, bien sûr ; il tente même de faire croire le contraire. Mais il est bien écrit dans son rapport que seules les périodes de chômage indemnisées donneront droit à des points dits « de solidarité »[^1]. En outre, les cotisations seront proportionnelles aux revenus : la baisse du montant des allocations-chômage signifie donc que les salarié.e.s qui auront été victimes de chômage verront leur pensions baisser, et cela d’autant plus qu’ils l’auront plus souvent et plus longtemps subi. 
 
