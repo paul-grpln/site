@@ -12,6 +12,8 @@ type: ailleurssurleweb
 Nous publions ci-dessous un échange récent entre Henri D. et Jacques Wajnsztejn. Autant par les thèmes abordés que par les exemples historiques cités, leurs propos sont emblématiques de la manière dont l’ancienne « question sociale » est aujourd’hui réactivée par les luttes actuelles et notamment par celle des Gilets jaunes.
 
 - - -
+- - -
+
 
 Merci Jacques pour votre retour et cette petite brochure de réflexions que je vais lire ce soir.
 
@@ -28,6 +30,8 @@ Bien cordialement.
 Henri D.
 
 - - -
+- - -
+
 
 Le 25 octobre 2019
 
@@ -45,6 +49,7 @@ J’oubliais : Il n’y a jamais eu « d’assauts prolétariens » contre la so
 
 Les ouvriers, la « classe ouvrière », se sont battus contre leurs conditions de vie et de travail dégueulasses, mais en ordre dispersé, par intermittence, et principalement pour obtenir des conditions de vie meilleures – lire à ce propos les nombreux témoignages autobiographies des militants de la cause ouvrière issus eux-mêmes de la classe ouvrière – pour améliorer leur sort dans la société dans laquelle ils vivaient, et par dignité bien sûr, tout comme les 500 000 Gilets jaunes pendant 8 mois…
 
+- - -
 - - -
 
 Le 30 octobre 2019
