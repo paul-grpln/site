@@ -5,7 +5,7 @@ title: >-
 date: 2019-11-09T17:19:11.427Z
 draft: 'false'
 image: /images/couvertures/2019-11-retraites-2-pauvreté.jpg
-bgImage: /images/couvertures/tendance-min.jpg
+bgImage: /images/couvertures/2019-11-retraites-2-pauvreté-min.jpg
 description: >-
   Réformes des retraites (2) : les travailleur.se.s pauvres et précaires seront
   fortement perdant.e.s. Deuxième volet de notre décryptage du projet
