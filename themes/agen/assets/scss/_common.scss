@@ -28,6 +28,10 @@ body {
   justify-content: center;
 }
 
+container {
+  max-width: 900px;
+}
+
 a {
   color: $primary-color;
 }
@@ -314,7 +318,7 @@ textarea.form-control {
 
 /* page-title */
 .page-title {
-  padding: 190px 0 170px;
+  padding: 150px 0 120px;
 }
 
 /* /page-title */

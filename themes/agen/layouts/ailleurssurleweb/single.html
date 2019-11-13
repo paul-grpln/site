@@ -1,7 +1,11 @@
 {{ define "main" }}
 
 <!-- page-title -->
+{{ if .Params.bgImage }}
 <div class="bg-overlay" data-background="{{ .Params.BgImage | absURL}}">
+{{ else }}
+<div class="bg-overlay" data-background="https://alt-rev.com/images/couvertures/tendance.jpg">
+{{ end }}
 <section class="page-title bg-cover test">
   <div class="container">
     <div class="row">
