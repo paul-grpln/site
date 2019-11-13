@@ -1,7 +1,7 @@
 ---
 title: >-
   Bolivie : A bas le coup d’Etat! A bas les agressions fascistes! Solidarité
-  avec les luttes des travailleur·ses !
+  avec les luttes des travailleur·ses!
 date: 2019-11-13T12:00:44.581Z
 draft: 'false'
 image: /images/couvertures/2019-11-bolivie.jpeg
