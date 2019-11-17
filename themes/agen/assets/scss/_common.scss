@@ -356,6 +356,9 @@ textarea.form-control {
 /* page-title */
 .page-title {
   padding: 150px 0 120px;
+  @include tablet {
+    padding: 150px 0 70px;
+  }
 }
 
 /* /page-title */
