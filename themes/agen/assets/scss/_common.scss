@@ -35,7 +35,7 @@ body {
 
 .premiersarticles {
     margin-right: 0px;
-    @include mobile {
+    @include tablet {
       padding-left: 16px;
     }
 }
@@ -44,7 +44,7 @@ body {
   float: right;
   max-width: 33%;
   margin-left: 0px !important;
-  @include mobile {
+  @include tablet {
     visibility: hidden;
     display: none;
   }
@@ -356,6 +356,9 @@ textarea.form-control {
 /* page-title */
 .page-title {
   padding: 150px 0 120px;
+  @include tablet {
+    padding: 150px 0 70px;
+  }
 }
 
 /* /page-title */
