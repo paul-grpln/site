@@ -17,7 +17,8 @@ p {
   font-family: $primary-font;
 
   img {
-    width: 100%;
+    max-width: 100%;
+    max-height: 600px;
   }
 }
 
