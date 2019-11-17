@@ -28,8 +28,45 @@ body {
   justify-content: center;
 }
 
-container {
-  max-width: 900px;
+.doublerow {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.premiersarticles {
+    margin-right: 0px;
+    @include mobile {
+      padding-left: 16px;
+    }
+}
+
+.ailleursliste {
+  float: right;
+  max-width: 33%;
+  margin-left: 0px !important;
+  @include mobile {
+    visibility: hidden;
+    display: none;
+  }
+}
+
+.ailleurstitre {
+  background-image: url(/images/couvertures/cta-bg.jpg);
+  margin-left: 16px;
+  width: 100%;
+  margin-bottom: 10px;
+  .h2-small {
+    padding: 16px;
+    font-size: 2em;
+    text-align: center;
+  }
+}
+
+.ailleurscard {
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-left: 16px;
 }
 
 a {
