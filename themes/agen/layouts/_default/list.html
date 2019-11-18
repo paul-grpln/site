@@ -12,7 +12,7 @@
           {{ if .Params.Image }}
           <img src="{{ .Params.Image | absURL }}" alt="post-thumb" class="card-img-top mb-2">
           {{ else }}
-          <div class="bg-overlay" data-background="https://alt-rev.com/images/couvertures/tendance.jpg">
+          <img src="https://alt-rev.com/images/couvertures/tendance.jpg" alt="post-thumb" class="card-img-top mb-2">
           {{ end }}
           <div class="card-body p-0">
             <time>{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</time>
