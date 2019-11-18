@@ -29,7 +29,7 @@ collections:
     fields:
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Date de publication", name: "date", widget: "datetime"}
-      - {label: "Couverture", name: "bgImage", widget: "image", required: "false"}
+      - {label: "Couverture", name: "bgImage", widget: "image", required: false}
       - {label: "description", name: "description", widget: "string"}
       - {label: "Nom de la source", name: "source", widget: "string"}
       - {label: "Adresse de l'article", name: "sourceURL", widget: "string"}
