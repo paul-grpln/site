@@ -2,7 +2,7 @@
 title: "Lancement de l’école décoloniale : réussites, critiques et perspectives"
 date: 2019-10-09T20:00:00+06:00
 draft: false
-image: articles/2019-10/images/ecoledecolo.jpg
+image: articles/2019-10/images/ecoledecolo-min.jpg
 bgImage: articles/2019-10/images/ecoledecolo.jpg
 description: "Ce dimanche 6 octobre a eu lieu le premier séminaire de l’École Décoloniale à la Colonie, à Paris. Issue du Bandung du Nord qui s’est tenu à Saint Denis en 2018, l’idée de cette École Décoloniale est initiée et portée par Paroles d’Honneur, la Fondation Frantz Fanon, le Parti des Indigènes de la République et la Colonie, dans l’objectif de donner aux militant.e.s une « pensée politique, idéologique et théorique décoloniale alternative à l’hégémonie du champ politique blanc »."
 author: Tristan Daul et Nev

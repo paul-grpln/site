@@ -2,7 +2,7 @@
 title: "La crise qui vient : éléments d'analyse"
 date: 2019-10-18T18:00:00+06:00
 draft: false
-image: articles/2019-10/images/lacrisequivient.jpg
+image: articles/2019-10/images/lacrisequivient-min.jpg
 bgImage: articles/2019-10/images/lacrisequivient.jpg
 description: "La crise arrive. C’est désormais une question de mois. Depuis 2008, l’économie mondiale est plongée dans une longue dépression économique : après le plongeon de 2008-2009, les taux de profit ont été très partiellement restaurés, ce qui n’a pas permis une véritable reprise de l’accumulation du capital. Les taux de croissance sont restés faibles."
 author: Gaston Lefranc

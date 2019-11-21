@@ -2,7 +2,7 @@
 title: "Communiqué CGT frondeurs RATP : Construire la grève illimitée du 5 décembre !"
 date: 2019-10-12T18:00:00+06:00
 draft: false
-image: articles/2019-10/images/ratpcgt.jpg
+image: articles/2019-10/images/ratpcgt-min.jpg
 bgImage: articles/2019-10/images/ratpcgt.jpg
 description: "La date du 5 décembre, posée par les syndicats de la RATP comme point de départ d'une grève illimitée contre la réforme des retraites apparaît comme pouvant constituer le point de départ d'un affrontement généralisé opposant les salarié.e.s à Macron et son monde. Mais pour que le 5 décembre soit vraiment le point de départ d'une grève interprofessionnelle illimitée, il faut que les travailleur.se.s s'en emparent, la préparent et se donnent les moyens de diriger leur grève."
 author: le groupe CGT FRONDEURS RATP.

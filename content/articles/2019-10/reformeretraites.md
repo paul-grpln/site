@@ -2,7 +2,7 @@
 title: "Réforme des retraites (1) : vers un régime universel de la misère !"
 date: 2019-10-19T12:30:00+06:00
 draft: false
-image: articles/2019-10/images/retraites.png
+image: articles/2019-10/images/retraites-min.png
 bgImage: articles/2019-10/images/retraites.png
 description: "Le gouvernement, le patronat et leurs médias donnent une vision profondément mensongère de la réforme des retraites et des enjeux de la lutte qui se prépare. Nous allons publier une série d’articles sur le sujet pour tordre le cou à ces contre-vérités. Nous commençons par proposer une perspective d’ensemble. Nous reviendrons, au fur et à mesure, dans des articles spécifiques sur des questions importantes pour la lutte, sur les arguments mensongers du gouvernement, les simulations-bidons, mais aussi sur des questions stratégiques pour construire une lutte victorieuse. "
 author: Tonio Alvarez

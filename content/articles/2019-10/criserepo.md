@@ -2,8 +2,8 @@
 title: "Crise du « repo » aux Etats-Unis : La banque centrale américaine intervient pour éviter la catastrophe."
 date: 2019-10-13T18:00:00+06:00
 draft: false
-image: articles/2019-10/images/criserepo.PNG
-bgImage: articles/2019-10/images/criserepo.PNG
+image: articles/2019-10/images/criserepo-min.png
+bgImage: articles/2019-10/images/criserepo.png
 description: "Du 16 au 17 septembre, le taux d’intérêt interbancaire « overnight repo » est monté subitement de 2% à plus de 8% aux Etats-Unis. Il s’agit d’un taux d’intérêt contre lequel les banques privées et fonds d’investissements qui détiennent de la monnaie (la « liquidité ») en excès prêtent pour une journée à ceux qui n’en ont pas assez pour qu’ils puissent accorder des crédits ou rembourser leurs propres dettes, et cela en échange d’un titre financier (appelé « collatéral ») qui fait office de garantie."
 author: Rémi Grumel.
 type : post

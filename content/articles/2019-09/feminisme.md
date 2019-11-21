@@ -2,7 +2,7 @@
 title: "Féminisme"
 date: 2019-07-23T14:19:26+06:00
 draft: false
-image: articles/2019-09/images/feminisme.jpg
+image: articles/2019-09/images/feminisme-min.jpg
 bgImage: articles/2019-09/images/feminisme.jpg
 description: "ous voulions tout d’abord commencer par rappeler que ce texte n’est pas un texte définitif (aucun de nos textes ne le sont). Il sert avant tout à cadrer les points d’accord (et éventuellement de désaccord) du processus sur la question du féminisme. Il doit fournir une base qui puisse servir de point d’appui pour notre orientation au quotidien comme sur le plus long terme. Il doit permettre à touTEs les camarades, même celles et ceux qui ne sont pas spécialistes de cette question ou qui ne souhaitent pas spécialement s’y investir, d’avoir les grandes bases théoriques, politiques et stratégiques sur la question."
 author: la tendance ARC

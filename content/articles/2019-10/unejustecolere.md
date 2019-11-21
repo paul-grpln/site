@@ -2,7 +2,7 @@
 title: "Interrompre la destruction du monde, construire l'alternative."
 date: 2019-10-08T18:00:00+06:00
 draft: false
-image: articles/2019-10/images/Unejustecolère.jpg
+image: articles/2019-10/images/Unejustecolère-min.jpg
 bgImage: articles/2019-10/images/Unejustecolère.jpg
 description: "Dans son dernier ouvrage *Une colère juste, interrompre la destruction du monde* paru aux éditions Divergences, Jérôme Baschet parvient à articuler avec lucidité l’essor du soulèvement des Gilets Jaunes et la crise structurelle qui traverse le capitalisme dans toutes ses dimensions."
 author: Tristan Daul
