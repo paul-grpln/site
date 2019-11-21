@@ -1,8 +1,8 @@
 ---
 title: Premières leçons du Chili et de Bolivie
-date: 2019-11-19T16:00:54.116Z
-bgImage: /images/couvertures/2019-11-bolivie.jpeg
-image: /images/couvertures/2019-11-bolivie-min.jpg
+date: 2019-11-21T10:04:54.116Z
+bgImage: /images/couvertures/2019-11-chili_bolivie_lecons.png
+image: /images/couvertures/2019-11-chili_bolivie_lecons-min.png
 description: >-
   Un tour du monde des luttes sociales, ces dernières semaines et ces derniers
   mois, devrait redonner confiance à celles et ceux qui ne supportent plus la
