@@ -7,17 +7,17 @@
         {{- block "main" . }}{{- end }}
         {{- partial "footer.html" . -}}
         <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
+            if (window.netlifyIdentity) {
+              window.netlifyIdentity.on("init", user => {
+                if (!user) {
+                  window.netlifyIdentity.on("login", () => {
+                    document.location.href = "/admin/";
+                  });
+                }
+              });
+            }
         </script>
-        <script async="true" src="https://alt-rev.com/instantclick.min.js" data-no-instant></script>
-        <script async="true" data-no-instant>InstantClick.init();</script>
+        <script src="/instantclick.min.js" data-no-instant></script>
+        <script data-no-instant>InstantClick.init();</script>
     </body>
 </html>
