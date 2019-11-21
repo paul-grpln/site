@@ -2,7 +2,7 @@
 title: "À lire : Nomadland, de Jessica Bruder"
 date: 2019-10-23T12:30:00+06:00
 draft: false
-image: articles/2019-10/images/nomadland.jpg
+image: articles/2019-10/images/nomadland-min.jpg
 bgImage: articles/2019-10/images/nomadland.jpg
 description: "Dans les États-Unis de Donald Trump, des retraitéEs vivent dans des camping-cars, des camionnettes, des vans ou des fourgons aménagés. Issus de la classe moyenne voire de la petite bourgeoisie, ils ont vu leurs retraites partir en fumée avec la crise des subprimes. Leurs économies ayant disparu, ces derniers n’ont eu pour seule autre solution que d’emménager dans ces « maisons sur roues »."
 author: Sally Brina
@@ -15,7 +15,7 @@ Article paru sur le site du NPA : [https://npa2009.org/idees/culture/lire-nomadl
 
 Dans les États-Unis de Donald Trump, des retraitéEs vivent dans des camping-cars, des camionnettes, des vans ou des fourgons aménagés. Issus de la classe moyenne voire de la petite bourgeoisie, ils ont vu leurs retraites partir en fumée avec la crise des subprimes. Leurs économies ayant disparu, ces derniers n’ont eu pour seule autre solution que d’emménager dans ces « maisons sur roues ».
 
-### Main-d’œuvre très recherchée 
+### Main-d’œuvre très recherchée
 
 Depuis, ces retraitéEs ruinés vivent sur la route, et traversant le pays, ils sont devenus une main-d’œuvre très recherchée pour le travail temporaire. On les retrouve l’été dans les parcs nationaux pour entretenir les campings, à l’automne dans les récoltes, à l’époque des fêtes chez Amazon. L’autrice nous montre d’ailleurs que l’embauche de cette main-d’œuvre peu revendicative fait même l’objet d’un programme spécial de recrutement par Amazon, la « Camperforce ».
 

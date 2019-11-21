@@ -2,7 +2,7 @@
 title: "Anti-racisme"
 date: 2019-07-23T13:19:26+06:00
 draft: false
-image: articles/2019-09/images/anti-racisme.jpg
+image: articles/2019-09/images/anti-racisme-min.jpg
 bgImage: articles/2019-09/images/anti-racisme.jpg
 description: "Ce texte est une ébauche de réflexion sur les racismes en général, mais est inévitablement marqué d’un point de vue centré sur la France. Par le colonialisme et les politiques discriminantes successives mises en place, principalement, à l'égard des « immigré·es » d'Afrique et du Maghreb, mais aussi qui visent les Rroms, les Gens du voyage, les Asiatiques et, à d'autres endroits, les personnes venant de l'Europe de l'Est, le racisme structurel est pleinement inscrit dans ce pays. Néanmoins, nous négligeons forcément d’autres situations possibles."
 author: la tendance ARC

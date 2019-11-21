@@ -2,7 +2,7 @@
 title: "Gilets Jaunes"
 date: 2019-07-23T16:19:26+06:00
 draft: false
-image: articles/2019-09/images/gilet-jaune.jpg
+image: articles/2019-09/images/gilet-jaune-min.jpg
 bgImage: articles/2019-09/images/gilet-jaune.jpg
 description: "Le mouvement des GJ, qui pouvait apparaître comme un phénomène passager, est finalement en train de modifier la situation politique en profondeur. S’il est difficile de mesurer précisément toutes les implications, un certain nombre de traits se dégagent."
 author: la tendance ARC

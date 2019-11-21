@@ -2,7 +2,7 @@
 title: " Contribution CPN : construire la grève interprofessionnelle illimitée !"
 date: 2019-10-09T16:00:00+06:00
 draft: false
-image: articles/2019-10/images/greveratp.jpg
+image: articles/2019-10/images/greveratp-min.jpg
 bgImage: articles/2019-10/images/greveratp.jpg
 description: "Vendredi 13 septembre, la grève à la RATP a été massivement suivie : près de 100 % des conducteurs et conductrices de métro et de RER étaient en grève. Du jamais vu depuis 2007 (déjà sur la question des retraites). Dans les AG, une perspective s'imposait naturellement : il faut un mouvement de grève illimitée pour faire plier Macron."
 author: les élu·e·s de l'ARC

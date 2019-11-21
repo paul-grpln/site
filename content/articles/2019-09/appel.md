@@ -2,7 +2,7 @@
 title: "Impulsons la transformation révolutionnaire du NPA !"
 date: 2019-06-22T16:20:26+06:00
 draft: false
-image: articles/2019-09/images/appel.jpg
+image: articles/2019-09/images/appel-min.jpg
 bgImage: articles/2019-09/images/appel.jpg
 description: "Lorsqu’il a été lancé, le projet du NPA a regroupé des camarades qui y mettaient des objectifs différents. Pour la majorité de l’ex-LCR, comme au niveau de la Quatrième internationale dont elle était la section française, il s’agissait de construire non un parti révolutionnaire, mais un « parti large » sur la base d’un programme anticapitaliste « dans les luttes comme dans les élections », tout en rassemblant le plus largement à la gauche du PS pour combler l’écart entre le nombre de voix pour Olivier Besancenot et la taille de la LCR. Pour d’autres, minoritaires dans l’ex-LCR ou venu·e·s d’autres courants, il s’agissait de participer au lancement d’un nouveau parti pour dépasser la sclérose des organisations d’extrême gauche, sans pour autant abandonner les idées révolutionnaires, mais en espérant notamment qu’elles pourraient être défendues à une échelle plus large qu’auparavant grâce à un « parti-processus », au rassemblement du « meilleur des traditions du mouvement ouvrier » et à sa construction par en bas."
 author: le Processus Révolutionnaire
