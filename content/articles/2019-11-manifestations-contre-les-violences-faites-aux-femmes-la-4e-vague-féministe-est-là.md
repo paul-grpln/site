@@ -19,7 +19,7 @@ type: post
 ---
 ### Des cortèges déterminés...
 
-La manifestation parisienne a réuni autour de 10 000 personnes. Sa jeunesse, sa radicalité et sa détermination ont été, à juste titre, beaucoup commentées. Les manifestations, évidemment moins nombreuses, dans les autres régions confirment néanmoins qu’un cap a été franchi dans la construction du mouvement féministe.
+La manifestation parisienne a réuni autour de 10 0000 personnes. Sa jeunesse, sa radicalité et sa détermination ont été, à juste titre, beaucoup commentées. Les manifestations, évidemment moins nombreuses, dans les autres régions confirment néanmoins qu’un cap a été franchi dans la construction du mouvement féministe.
 
 A Nantes, par exemple, ce sont quelque 3000 personnes qui se sont retrouvées en centre ville pour une manifestation combative et dynamique contre les violences faites aux femmes. Appelée par un collectif unitaire qui regroupe organisations syndicales et associations institutionnelles, la manifestation n'a pas donné lieu à une division marquée comme l'an passé (où il y avait eu deux marches) mais des appels à des cortèges spécifiques, et notamment un cortège révolutionnaire, ont rendu la manifestation très diverse. Le cortège s'est élancé dans les rues du centre ville au son de slogans permanents, du fameux _"anti anti patriarcat"_ au _"so-so solidarité avec les femmes du monde entier"_ en passant par des slogans sur l'affaire Polanski, ou sur la répression policière. La manifestation a touché son paroxysme quand elle a envahi la gare sncf de Nantes, sous les applaudissements des voyageurs, aux cris de _"cheminotes, avec nous !"_. Si la question des violences faites aux femmes et minorités de genre était au cœur du mouvement, celle du 5 décembre était également bien présente : collectifs féministes, syndicats, étudiant.es préparent la mobilisation !
 
@@ -32,8 +32,6 @@ La 4e vague féministe se forme ! Le 23 novembre et les jours qui ont suivi ont 
 Les collectifs féministes sont nombreux à s'être emparés de la mobilisation du 5 décembre également et à avoir porté ces revendications lors du mouvement. Le projet de réforme des retraites, s'il s'annonce catastrophique pour toutes et tous, touchera davantage les femmes dont les carrières sont plus marquées par les temps partiels, les interruptions, mais aussi par les inégalités de salaires, les emplois précaires... Le 5 décembre sera aussi féministe !
 
 Alors que les mobilisations sont de plus en plus massives à l'international, comme en Algérie, au Chili, en Espagne... ce mouvement doit nous servir de point d'appui pour construire la grève des femmes.
-
-
 
 ### Renforcer le féminisme lutte des classes
 
