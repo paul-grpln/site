@@ -33,7 +33,7 @@ _C’est pourquoi nous invitons à participer largement à la réunion de prépa
 
 --------------------------
 <center>
-**FRONDE SYNDICALE A LA BASE**
+<b>FRONDE SYNDICALE A LA BASE</b>
 </center>
 
 <center>
@@ -61,7 +61,7 @@ l’initiative des directions syndicales ouvrant une salle parisienne à cet eff
 Nous exigeons beaucoup de choses des directions syndicales de la RATP depuis deux mois, cela en pure perte, faute d’être puissant, faute d’être uni et coordonné. Nous sommes maintenant unis et coordonnés, camarade apporte nous ta puissance, et le 02 décembre parlons tactique et stratégie afin de préparer au mieux les AG du 05 décembre.
 
 <div style="text-align:right;">
-**Le 25 novembre 2019 Les frondeurs CGT de la RATP**
+<b>Le 25 novembre 2019 Les frondeurs CGT de la RATP</b>
 </div>
 
 Contact Métro: Walid Kheyar 06 15 69 48 79 ; 
