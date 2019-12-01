@@ -11,7 +11,7 @@ description: >-
   salarié-e-s, syndiqué-e-s ou non, à combattre le projet de réforme des
   retraites ainsi que la casse de leur statut et la mise en concurrence des
   transports en commun en région parisienne. 
-author: V
+author: Victor Müller
 type: post
 ---
 Depuis plusieurs semaines, la direction de la RATP a fait le choix d’une répression inédite contre les élu-e-s syndicaux-ales impliqué-e-s dans la journée de grève du 13 septembre 2019. Le résultat de cette politique supposément intimidante a été au contraire de renforcer la détermination des salarié-e-s, syndiqué-e-s ou non, à combattre le projet de réforme des retraites ainsi que la casse de leur statut et la mise en concurrence des transports en commun en région parisienne. Leur détermination s’est exprimée dans les rassemblements de solidarité avec leurs collègues visés par des sanctions, par exemple le 12 novembre en soutien à Ahmed Berrahal où nous avons filmé plusieurs interviews disponibles [ici](https://wetransfer.com/downloads/5de4a92fbbb2c9cf10ec30202944f0c720191125102523/8c53de). 
