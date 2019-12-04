@@ -10,7 +10,7 @@ description: >-
   qui concerne les transformations annoncées une première journée de grève en
   juin avait permis de prendre la température et de constater que plus de la
   moitié des salarié.e.s contestaient les plans de la direction.
-author: 'N'
+author: E.
 type: post
 ---
 Depuis le 25 Novembre, Radio France est en grève contre le plan stratégique de Sibyle Veil se traduisant principalement par un plan de suppression de 299 emplois. La situation de gronde sociale dure depuis des années, mais pour ce qui concerne les transformations annoncées une première journée de grève en juin avait permis de prendre la température et de constater que plus de la moitié des salarié.e.s contestaient les plans de la direction.
