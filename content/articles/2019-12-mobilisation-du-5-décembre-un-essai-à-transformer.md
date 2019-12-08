@@ -14,7 +14,7 @@ description: >-
 author: Michel Le Goff
 type: post
 ---
-### La perspective d'un mouvement d'ampleur impliquant directement le monde du travail.
+### La perspective d'un mouvement d'ampleur impliquant directement le monde du travail
 
 
 
